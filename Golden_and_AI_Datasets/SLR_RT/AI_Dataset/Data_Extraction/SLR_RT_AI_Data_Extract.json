@@ -1,0 +1,1010 @@
+[
+  {
+    "tool_name": "2weekSR",
+    "references": [86, 91],
+    "type": "tool",
+    "prisma_phases": ["identification", "screening", "data_extraction"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "Abstrackr",
+    "references": [10, 29, 30, 31, 60, 71, 80, 86, 89, 105],
+    "type": "tool",
+    "prisma_phases": ["screening"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": ["sensitivity", "specificity", "precision"]
+  },
+  {
+    "tool_name": "Active Pubmed Search (APS)",
+    "references": [89],
+    "type": "tool",
+    "prisma_phases": ["identification"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "ASReview",
+    "references": [9, 10, 31, 80, 81, 86],
+    "type": "tool",
+    "prisma_phases": ["screening"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "Atlas Ti",
+    "references": [71],
+    "type": "tool",
+    "prisma_phases": ["data_extraction"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "Automatic NMA Screener",
+    "references": [55],
+    "type": "tool",
+    "prisma_phases": ["screening"],
+    "ai_type": ["machine_learning", "nlp"],
+    "performance_metrics": ["sensitivity", "workload decrease"]
+  },
+  {
+    "tool_name": "AutoLit",
+    "references": [40],
+    "type": "tool",
+    "prisma_phases": ["screening"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "BiblioShiny",
+    "references": [74],
+    "type": "tool",
+    "prisma_phases": ["identification"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "Carrot2",
+    "references": [74],
+    "type": "tool",
+    "prisma_phases": ["identification"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "ChatGPT (no version)",
+    "references": [34, 44, 48, 59, 109],
+    "type": "tool",
+    "prisma_phases": ["identification", "screening", "data_extraction"],
+    "ai_type": ["llm"],
+    "performance_metrics": ["accuracy", "sensitivity"]
+  },
+  {
+    "tool_name": "ChatGPT3",
+    "references": [95],
+    "type": "framework",
+    "prisma_phases": ["screening"],
+    "ai_type": ["llm"],
+    "performance_metrics": ["sensitivity"]
+  },
+  {
+    "tool_name": "ChatGPT3.5",
+    "references": [3, 21, 43, 56, 65, 68, 82, 88, 94],
+    "type": "tool",
+    "prisma_phases": ["identification", "screening"],
+    "ai_type": ["llm"],
+    "performance_metrics": ["accuracy", "specificity"]
+  },
+  {
+    "tool_name": "ChatGPT3.5-Turbo",
+    "references": [45],
+    "type": "tool",
+    "prisma_phases": ["screening"],
+    "ai_type": ["llm"],
+    "performance_metrics": ["precision", "negative_predictive_value"]
+  },
+  {
+    "tool_name": "ChatGPT4",
+    "references": [21, 34, 38, 54, 56, 59, 83, 97, 101],
+    "type": "tool",
+    "prisma_phases": ["identification", "screening", "data_extraction", "data_synthesis", "quality_assessment"],
+    "ai_type": ["llm"],
+    "performance_metrics": ["accuracy", "sensitivity"]
+  },
+  {
+    "tool_name": "Chatpdf",
+    "references": [93],
+    "type": "tool",
+    "prisma_phases": ["data_extraction"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "Citation Screener",
+    "references": [6, 52],
+    "type": "tool",
+    "prisma_phases": ["screening"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": ["precision", "recall"]
+  },
+  {
+    "tool_name": "Citation Screener (BioMedical)",
+    "references": [107],
+    "type": "tool",
+    "prisma_phases": ["screening"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": ["workload reduction"]
+  },
+  {
+    "tool_name": "CitNetExplorer",
+    "references": [74],
+    "type": "tool",
+    "prisma_phases": ["identification"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "Claude3",
+    "references": [56, 59, 83],
+    "type": "tool",
+    "prisma_phases": ["identification", "screening", "data_extraction"],
+    "ai_type": ["llm"],
+    "performance_metrics": ["accuracy"]
+  },
+  {
+    "tool_name": "Cochrane",
+    "references": [60, 89],
+    "type": "tool",
+    "prisma_phases": ["screening"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "Colandr",
+    "references": [10, 31, 86, 89],
+    "type": "tool",
+    "prisma_phases": ["identification", "screening"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "Covidence",
+    "references": [31, 59, 71],
+    "type": "tool",
+    "prisma_phases": ["screening"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "Cruise Screening",
+    "references": [53],
+    "type": "tool",
+    "prisma_phases": ["screening"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "Data Extracter",
+    "references": [32],
+    "type": "tool",
+    "prisma_phases": ["data_extraction"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": ["recall", "precision"]
+  },
+  {
+    "tool_name": "Deducklick",
+    "references": [86],
+    "type": "tool",
+    "prisma_phases": ["identification"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "Dextr",
+    "references": [10, 106],
+    "type": "tool",
+    "prisma_phases": ["data_extraction"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": ["precision", "recall"]
+  },
+  {
+    "tool_name": "DistillerSR",
+    "references": [10, 31, 59, 71, 86, 89],
+    "type": "tool",
+    "prisma_phases": ["identification", "screening", "data_extraction"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "DocAnalyzer AI",
+    "references": [93],
+    "type": "tool",
+    "prisma_phases": ["identification", "screening", "data_extraction"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "DoCTER",
+    "references": [84],
+    "type": "tool",
+    "prisma_phases": ["screening"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": ["ensemble_score"]
+  },
+  {
+    "tool_name": "Document Screener",
+    "references": [37],
+    "type": "tool",
+    "prisma_phases": ["screening"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": ["f1_score", "accuracy"]
+  },
+  {
+    "tool_name": "Easy-peasy AI",
+    "references": [93],
+    "type": "tool",
+    "prisma_phases": [],
+    "ai_type": [],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "Elicit",
+    "references": [31, 46, 99, 100, 118],
+    "type": "tool",
+    "prisma_phases": ["identification", "screening", "data_extraction"],
+    "ai_type": ["llm", "machine_learning"],
+    "performance_metrics": ["recall", "precision"]
+  },
+  {
+    "tool_name": "EndNote",
+    "references": [74],
+    "type": "tool",
+    "prisma_phases": ["identification"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "EPPI-Reviewer",
+    "references": [10, 31, 59, 60, 71, 86, 89, 105],
+    "type": "tool",
+    "prisma_phases": ["identification", "screening", "data_extraction", "data_synthesis"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "ExaCT",
+    "references": [10, 79, 86, 89],
+    "type": "tool",
+    "prisma_phases": ["screening"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "FAST2",
+    "references": [10],
+    "type": "tool",
+    "prisma_phases": ["identification"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "FastRead",
+    "references": [72],
+    "type": "tool",
+    "prisma_phases": ["screening"],
+    "ai_type": ["nlp"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "FSL-based screening",
+    "references": [113],
+    "type": "framework",
+    "prisma_phases": ["screening"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": ["workload reduction"]
+  },
+  {
+    "tool_name": "GAPScreener",
+    "references": [89],
+    "type": "tool",
+    "prisma_phases": ["screening"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "GATE",
+    "references": [86],
+    "type": "tool",
+    "prisma_phases": ["identification"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "Gemini 1.0",
+    "references": [56],
+    "type": "tool",
+    "prisma_phases": ["screening"],
+    "ai_type": ["llm"],
+    "performance_metrics": ["accuracy", "specificity"]
+  },
+  {
+    "tool_name": "General-Purpose Filtering System",
+    "references": [49],
+    "type": "tool",
+    "prisma_phases": ["screening"],
+    "ai_type": ["nlp"],
+    "performance_metrics": ["area_under_curve"]
+  },
+  {
+    "tool_name": "Google PaLM2",
+    "references": [56],
+    "type": "tool",
+    "prisma_phases": ["screening"],
+    "ai_type": ["llm"],
+    "performance_metrics": ["accuracy", "specificity"]
+  },
+  {
+    "tool_name": "GRADEpro",
+    "references": [71],
+    "type": "tool",
+    "prisma_phases": ["quality_assessment"],
+    "ai_type": ["llm"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "Hipdf",
+    "references": [93],
+    "type": "tool",
+    "prisma_phases": ["data_extraction"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "IBM Parse",
+    "references": [89],
+    "type": "tool",
+    "prisma_phases": ["data_extraction"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "In-Vitro Screener",
+    "references": [111],
+    "type": "tool",
+    "prisma_phases": ["screening"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": ["sensitivity", "specificity"]
+  },
+  {
+    "tool_name": "Iris.ai",
+    "references": [10],
+    "type": "tool",
+    "prisma_phases": ["identification", "screening"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "JBI-SUMARI",
+    "references": [71],
+    "type": "tool",
+    "prisma_phases": ["screening", "data_extraction", "quality_assessment"],
+    "ai_type": ["natural_language_processing"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "Keyword-Analyzer",
+    "references": [74],
+    "type": "tool",
+    "prisma_phases": ["identification"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "KeyCharacteristic Screener",
+    "references": [102],
+    "type": "tool",
+    "prisma_phases": ["screening"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": ["recall", "exclusion"]
+  },
+  {
+    "tool_name": "Leximancer",
+    "references": [86],
+    "type": "tool",
+    "prisma_phases": ["data_extraction"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "Literature Search Sandbox",
+    "references": [1],
+    "type": "tool",
+    "prisma_phases": ["identification"],
+    "ai_type": ["llm"],
+    "performance_metrics": ["sensitivity_score"]
+  },
+  {
+    "tool_name": "LitSearchR",
+    "references": [86],
+    "type": "tool",
+    "prisma_phases": ["identification"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "LitSuggest",
+    "references": [10, 89],
+    "type": "tool",
+    "prisma_phases": ["identification", "screening"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "LLama2",
+    "references": [56],
+    "type": "tool",
+    "prisma_phases": ["screening"],
+    "ai_type": ["llm"],
+    "performance_metrics": ["accuracy", "specificity"]
+  },
+  {
+    "tool_name": "Llama3",
+    "references": [56],
+    "type": "tool",
+    "prisma_phases": ["screening"],
+    "ai_type": ["llm"],
+    "performance_metrics": ["accuracy", "specificity"]
+  },
+  {
+    "tool_name": "LLM-FA",
+    "references": [17],
+    "type": "tool",
+    "prisma_phases": ["screening"],
+    "ai_type": ["llm"],
+    "performance_metrics": ["accuracy_score"]
+  },
+  {
+    "tool_name": "LLM-SA",
+    "references": [17],
+    "type": "tool",
+    "prisma_phases": ["screening"],
+    "ai_type": ["llm"],
+    "performance_metrics": ["accuracy_score"]
+  },
+  {
+    "tool_name": "Lingo3G",
+    "references": [74],
+    "type": "tool",
+    "prisma_phases": ["identification"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "Lingo4G",
+    "references": [74],
+    "type": "tool",
+    "prisma_phases": ["identification"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "MeSH on Demand",
+    "references": [71, 74],
+    "type": "tool",
+    "prisma_phases": ["identification"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "MetaCyto",
+    "references": [42],
+    "type": "tool",
+    "prisma_phases": ["data_synthesis"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "MetaMap",
+    "references": [86],
+    "type": "tool",
+    "prisma_phases": ["data_synthesis"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "MetaPreg",
+    "references": [89],
+    "type": "tool",
+    "prisma_phases": ["identification", "screening", "data_extraction"],
+    "ai_type": ["machine_learning", "natural_language_processing"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "ML-based screening",
+    "references": [18, 62, 77, 103],
+    "type": "tool",
+    "prisma_phases": ["identification", "screening"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": ["specificity", "roc_curves"]
+  },
+  {
+    "tool_name": "MMDas-AE",
+    "references": [89],
+    "type": "tool",
+    "prisma_phases": ["data_extraction"],
+    "ai_type": ["natural_language_processing"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "MySLR",
+    "references": [5],
+    "type": "tool",
+    "prisma_phases": ["identification", "screening", "data_extraction", "data_synthesis"],
+    "ai_type": ["machine_learning", "natural_language_processing"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "NaCTeM",
+    "references": [60, 89],
+    "type": "tool",
+    "prisma_phases": ["data_synthesis"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "Natural Language Query's",
+    "references": [108],
+    "type": "tool",
+    "prisma_phases": ["identification"],
+    "ai_type": ["natural_language_processing"],
+    "performance_metrics": ["recall", "accuracy"]
+  },
+  {
+    "tool_name": "Nested Knowledge",
+    "references": [10, 31],
+    "type": "tool",
+    "prisma_phases": ["identification", "screening", "data_extraction"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "NLP-based screening",
+    "references": [19, 67, 96, 116, 117],
+    "type": "tool",
+    "prisma_phases": ["identification", "screening", "data_extraction", "data_synthesis"],
+    "ai_type": ["natural_language_processing", "machine_learning"],
+    "performance_metrics": ["recall", "precision"]
+  },
+  {
+    "tool_name": "Nvivo",
+    "references": [71],
+    "type": "tool",
+    "prisma_phases": ["data_extraction"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "PDFBox",
+    "references": [86],
+    "type": "tool",
+    "prisma_phases": ["data_extraction"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "Paperfetcher",
+    "references": [86],
+    "type": "tool",
+    "prisma_phases": ["identification"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "Pdf2gpt",
+    "references": [93],
+    "type": "tool",
+    "prisma_phases": ["data_extraction"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "PICOPortal",
+    "references": [10],
+    "type": "tool",
+    "prisma_phases": ["identification"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "Pitts.ai",
+    "references": [10],
+    "type": "tool",
+    "prisma_phases": ["screening"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "Polygot",
+    "references": [71],
+    "type": "tool",
+    "prisma_phases": ["data_synthesis"],
+    "ai_type": ["natural_language_processing"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "PublicationBias",
+    "references": [86],
+    "type": "tool",
+    "prisma_phases": ["bias_assessment"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "PubReMiner",
+    "references": [71, 74],
+    "type": "tool",
+    "prisma_phases": ["identification"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "Pythia",
+    "references": [2],
+    "type": "tool",
+    "prisma_phases": ["screening"],
+    "ai_type": ["machine_learning", "natural_language_processing"],
+    "performance_metrics": ["precision", "sensitivity"]
+  },
+  {
+    "tool_name": "RAPTOR: RevMan",
+    "references": [60],
+    "type": "tool",
+    "prisma_phases": ["data_synthesis"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "RapidMiner",
+    "references": [86],
+    "type": "tool",
+    "prisma_phases": ["data_synthesis"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "RCT Tagger",
+    "references": [60, 86],
+    "type": "tool",
+    "prisma_phases": ["screening"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "Rayyan",
+    "references": [10, 31, 71, 80, 86, 89, 105],
+    "type": "tool",
+    "prisma_phases": ["screening"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "ResearchRabbit",
+    "references": [46],
+    "type": "tool",
+    "prisma_phases": ["identification", "screening"],
+    "ai_type": ["natural_language_processing"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "ResearchScreener",
+    "references": [10, 16, 71, 72, 89],
+    "type": "tool",
+    "prisma_phases": ["identification", "screening"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": ["workload_saving"]
+  },
+  {
+    "tool_name": "RevTools",
+    "references": [71, 89],
+    "type": "tool",
+    "prisma_phases": ["data_extraction"],
+    "ai_type": ["natural_language_processing"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "RobuMeta",
+    "references": [86],
+    "type": "tool",
+    "prisma_phases": [],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "RobotAnalyst",
+    "references": [10, 60, 71, 72, 86, 89],
+    "type": "tool",
+    "prisma_phases": ["screening"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "RobotReviewer",
+    "references": [10, 31, 60, 86, 89],
+    "type": "tool",
+    "prisma_phases": ["screening", "data_extraction", "quality_assessment", "bias_assessment"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "RobotSearcher",
+    "references": [60, 86],
+    "type": "tool",
+    "prisma_phases": ["identification"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "SciSpace",
+    "references": [31, 93, 99, 100, 118],
+    "type": "tool",
+    "prisma_phases": ["identification", "screening", "data_extraction"],
+    "ai_type": ["machine_learning", "llm"],
+    "performance_metrics": ["recall", "precision"]
+  },
+  {
+    "tool_name": "SciSpaceGPT",
+    "references": [31],
+    "type": "tool",
+    "prisma_phases": ["identification", "screening"],
+    "ai_type": ["deep_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "Screen Smarter not Harder",
+    "references": [15],
+    "type": "tool",
+    "prisma_phases": ["screening"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": ["recall", "sensitivity"]
+  },
+  {
+    "tool_name": "Screen4Me",
+    "references": [69, 89],
+    "type": "tool",
+    "prisma_phases": ["identification", "screening"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": ["agreement", "sensitivity"]
+  },
+  {
+    "tool_name": "SearchRefiner",
+    "references": [31],
+    "type": "tool",
+    "prisma_phases": ["identification"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "SLR Qub",
+    "references": [86],
+    "type": "tool",
+    "prisma_phases": ["identification"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "SLuRp",
+    "references": [12],
+    "type": "tool",
+    "prisma_phases": ["identification"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "SMAFIRA",
+    "references": [14],
+    "type": "tool",
+    "prisma_phases": ["identification"],
+    "ai_type": ["deep_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "SPARK",
+    "references": [7],
+    "type": "tool",
+    "prisma_phases": ["identification", "screening", "data_extraction"],
+    "ai_type": ["natural_language_processing"],
+    "performance_metrics": ["coherence_score"]
+  },
+  {
+    "tool_name": "srBERT",
+    "references": [8, 39],
+    "type": "tool",
+    "prisma_phases": ["screening"],
+    "ai_type": ["machine_learning", "natural_language_processing"],
+    "performance_metrics": ["recall", "F1-score"]
+  },
+  {
+    "tool_name": "SRToolBox",
+    "references": [89],
+    "type": "tool",
+    "prisma_phases": ["identification", "screening", "data_extraction", "data_synthesis"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "SWARM-SLR",
+    "references": [112],
+    "type": "framework",
+    "prisma_phases": ["identification", "screening", "data_extraction", "data_synthesis", "quality_assessment", "bias_assessment"],
+    "ai_type": [],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "SWIFT-Active Screener",
+    "references": [10, 31, 58, 71, 89],
+    "type": "tool",
+    "prisma_phases": ["screening"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": ["agreement"]
+  },
+  {
+    "tool_name": "SWIFT-Review",
+    "references": [10, 31, 41, 60, 86, 89],
+    "type": "tool",
+    "prisma_phases": ["identification", "screening"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": ["wss_at_r"]
+  },
+  {
+    "tool_name": "SYMBALS",
+    "references": [69],
+    "type": "tool",
+    "prisma_phases": ["screening"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": ["speed"]
+  },
+  {
+    "tool_name": "SyRF",
+    "references": [86],
+    "type": "tool",
+    "prisma_phases": ["screening"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "SyROCCo",
+    "references": [26],
+    "type": "tool",
+    "prisma_phases": ["identification", "screening", "data_extraction"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": ["similarity_score"]
+  },
+  {
+    "tool_name": "SysRev",
+    "references": [10],
+    "type": "tool",
+    "prisma_phases": ["identification", "screening"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "Systematic Review Accelerator",
+    "references": [71],
+    "type": "tool",
+    "prisma_phases": ["identification", "screening"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "TerMine",
+    "references": [74, 86],
+    "type": "tool",
+    "prisma_phases": ["identification"],
+    "ai_type": ["machine_learning", "natural_language_processing"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "Text Analyzer",
+    "references": [74],
+    "type": "tool",
+    "prisma_phases": ["identification"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "Text Classifier",
+    "references": [28],
+    "type": "tool",
+    "prisma_phases": ["screening"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": ["precision", "recall"]
+  },
+  {
+    "tool_name": "Thalia",
+    "references": [60],
+    "type": "tool",
+    "prisma_phases": ["screening"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "TIAB-Screener",
+    "references": [31, 78],
+    "type": "tool",
+    "prisma_phases": ["identification", "screening"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": ["area_under_curve"]
+  },
+  {
+    "tool_name": "Tm for R",
+    "references": [74],
+    "type": "tool",
+    "prisma_phases": ["identification"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "Transformer",
+    "references": [27],
+    "type": "tool",
+    "prisma_phases": ["screening"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": ["workload_saved"]
+  },
+  {
+    "tool_name": "Trial2Rev",
+    "references": [61],
+    "type": "tool",
+    "prisma_phases": ["identification", "screening", "data_extraction"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "Twister",
+    "references": [50, 89],
+    "type": "tool",
+    "prisma_phases": ["identification", "screening"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "VosViewer",
+    "references": [74],
+    "type": "tool",
+    "prisma_phases": ["identification"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "Voyant",
+    "references": [74],
+    "type": "tool",
+    "prisma_phases": ["identification"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "WordNet",
+    "references": [86],
+    "type": "tool",
+    "prisma_phases": ["identification"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "Yale MESH",
+    "references": [71, 74],
+    "type": "tool",
+    "prisma_phases": ["identification"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  },
+  {
+    "tool_name": "Zettair",
+    "references": [86],
+    "type": "tool",
+    "prisma_phases": ["identification"],
+    "ai_type": ["machine_learning"],
+    "performance_metrics": []
+  }
+]

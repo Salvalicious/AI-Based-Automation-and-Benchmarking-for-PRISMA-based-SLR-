@@ -1,0 +1,27 @@
+=== Title & Abstract Screening Evaluation ===
+
+Confusion Matrix:
+               Predicted Relevant    Predicted Not Relevant
+Actual Relevant           163                     21
+Actual Not Relevant       471                   5807
+
+Metrics:
+TP: 163
+FP: 471
+TN: 5807
+FN: 21
+Recall: 0.8859
+Precision: 0.2571
+Specificity: 0.9250
+Accuracy: 0.9239
+BalancedAccuracy: 0.9054
+F1: 0.3985
+WorkSaved: 0.9019
+WSS@95: 0.7878
+Recall_CI: (np.float64(0.8399251438394114), np.float64(0.9318139865953713))
+Precision_CI: (np.float64(0.22307840820047437), np.float64(0.29111717539574017))
+Specificity_CI: (np.float64(0.9184596659895764), np.float64(0.9314925480913411))
+Accuracy_CI: (np.float64(0.9173959907758438), np.float64(0.9303291717125499))
+BalancedAccuracy_CI: (np.float64(0.8982878774929844), np.float64(0.9125577947648656))
+
+False Negatives (missed relevant studies): 21

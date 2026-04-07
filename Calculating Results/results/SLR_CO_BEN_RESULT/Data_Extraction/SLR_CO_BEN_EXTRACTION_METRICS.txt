@@ -1,0 +1,48 @@
+=== Data Extraction Evaluation ===
+
+Confusion Matrix:
+               Predicted Correct    Predicted Incorrect
+Actual Correct           587                    187
+Actual Incorrect           0                      0
+
+Metrics:
+TP: 587
+FP: 0
+TN: 0
+FN: 187
+Recall: 0.7584
+Precision: 1.0000
+Specificity: 0.0000
+Accuracy: 0.7584
+BalancedAccuracy: 0.3792
+F1: 0.8626
+WorkSaved: 0.2416
+WSS@95: -0.0000
+Recall_CI: (np.float64(0.7282411863910583), np.float64(0.7885546792420166))
+Precision_CI: (np.float64(1.0), 1.0)
+Specificity_CI: (0.0, 0.0)
+Accuracy_CI: (np.float64(0.7282411863910583), np.float64(0.7885546792420166))
+BalancedAccuracy_CI: (np.float64(0.34501713096163034), np.float64(0.4133808018549071))
+recall_AC_CI: (np.float64(0.7269856162347715), np.float64(0.7872579006972106))
+precision_AC_CI: (np.float64(0.9921589774095347), 1.0)
+Specificity_AC_CI: (0.0, 0.0)
+accuracy_AC_CI: (np.float64(0.7269856162347715), np.float64(0.7872579006972106))
+bal_acc_AC_CI: (np.float64(0.36349280811738577), np.float64(0.3936289503486053))
+
+Field Accuracy:
+field
+economic             0.860465
+social               0.860465
+health               0.860465
+safety               0.860465
+environmental        0.848837
+design               0.848837
+transport_quality    0.837209
+setting              0.755814
+country              0.093023
+
+Study-level Accuracy:
+0.0000
+
+
+Extraction Errors: 187

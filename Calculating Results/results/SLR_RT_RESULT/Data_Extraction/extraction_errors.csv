@@ -1,0 +1,36 @@
+tool;field;human;ai;correct
+chatgpt3;performance_metrics;['sensitivity'];['sensitivity score'];False
+chatgpt3.5 turbo;performance_metrics;['negative predictive value', 'precision'];['npv', 'precision'];False
+chatgpt4;prisma_phases;['data extraction', 'data synthesis', 'identification', 'quality assessment', 'screening'];['data extraction', 'data synthesis', 'identification', 'screening'];False
+citation screener (biomedical);performance_metrics;['workload reduction'];['reduction manual screening'];False
+easy peasy ai;ai_type;[];['llm'];False
+eppi reviewer;prisma_phases;['data extraction', 'data synthesis', 'identification', 'screening'];['data extraction', 'identification', 'screening'];False
+general purpose filtering system;performance_metrics;['area under curve'];['area under curve (auc)'];False
+jbi sumari;ai_type;['natural language processing'];['nlp'];False
+metamap;prisma_phases;['data synthesis'];['data extraction'];False
+metapreg;ai_type;['machine learning', 'natural language processing'];['machine learning', 'nlp'];False
+mmdas ae;ai_type;['natural language processing'];['nlp'];False
+myslr;ai_type;['machine learning', 'natural language processing'];['machine learning', 'nlp'];False
+nactem;prisma_phases;['data synthesis'];['data extraction'];False
+natural language query's;ai_type;['natural language processing'];['nlp'];False
+nlp based screening;prisma_phases;['data extraction', 'data synthesis', 'identification', 'screening'];['data extraction', 'identification', 'screening'];False
+nlp based screening;ai_type;['machine learning', 'natural language processing'];['nlp'];False
+polygot;ai_type;['natural language processing'];['nlp'];False
+pythia;ai_type;['machine learning', 'natural language processing'];['machine learning', 'nlp'];False
+rapidminer;prisma_phases;['data synthesis'];['data extraction'];False
+raptor: revman;prisma_phases;['data synthesis'];['data extraction'];False
+researchrabbit;ai_type;['natural language processing'];['nlp'];False
+researchscreener;prisma_phases;['identification', 'screening'];['screening'];False
+revtools;ai_type;['natural language processing'];['nlp'];False
+robumeta;prisma_phases;[];['bias assessment'];False
+slr qub;prisma_phases;['identification'];['screening'];False
+slurp;prisma_phases;['identification'];['screening'];False
+spark;ai_type;['natural language processing'];['nlp'];False
+srbert;ai_type;['machine learning', 'natural language processing'];['machine learning', 'nlp'];False
+swarm slr;ai_type;[];['machine learning'];False
+swift review;performance_metrics;['wss at r'];['wss@r'];False
+symbals;performance_metrics;['speed'];['speed (factor 6)'];False
+sysrev;prisma_phases;['identification', 'screening'];['screening'];False
+termine;ai_type;['machine learning', 'natural language processing'];['machine learning'];False
+tiab screener;prisma_phases;['identification', 'screening'];['screening'];False
+transformer;performance_metrics;['workload saved'];['workload saved (wss@r)'];False

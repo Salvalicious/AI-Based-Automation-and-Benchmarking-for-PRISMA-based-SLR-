@@ -1,0 +1,7 @@
+pandas~=2.3.3
+openai~=2.15.0
+numpy~=2.4.1
+pathlib~=1.0.1
+RapidFuzz~=3.14.3
+pymupdf4llm~=0.2.9
+PyMuPDF~=1.26.6

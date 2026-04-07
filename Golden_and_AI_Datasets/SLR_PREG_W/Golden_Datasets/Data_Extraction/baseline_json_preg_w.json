@@ -1,0 +1,202 @@
+[
+  {
+    "study_reference": "Conceição et al., 2023",
+    "ref_num": 32,
+    "criterion_name": "CDC/AAP [9,10]",
+    "gold_standard": "Gomes-Filho et al. [13]",
+    "test_type": "clinical examination",
+    "parameters": ["probing depth", "clinical attachment level", "bleeding on probing"],
+    "sensitivity": "86.5 (82.0-90.0)",
+    "specificity": "72.50 (69.5-75.3)"
+  },
+  {
+    "study_reference": "Conceição et al., 2023",
+    "ref_num": 32,
+    "criterion_name": "Albandar et al. [33]",
+    "gold_standard": "Gomes-Filho et al. [13]",
+    "test_type": "clinical examination",
+    "parameters": ["probing depth", "clinical attachment level", "bleeding on probing"],
+    "sensitivity": "86.5 (82.0-90.2)",
+    "specificity": "96.0 (73.3-82.4)"
+  },
+  {
+    "study_reference": "Conceição et al., 2023",
+    "ref_num": 32,
+    "criterion_name": "Bassani et al. [14]",
+    "gold_standard": "Gomes-Filho et al. [13]",
+    "test_type": "clinical examination",
+    "parameters": ["probing depth", "clinical attachment level", "bleeding on probing"],
+    "sensitivity": "98.6 (96.5-99.6)",
+    "specificity": "42.3 (39.2-45.5)"
+  },
+  {
+    "study_reference": "Conceição et al., 2023",
+    "ref_num": 32,
+    "criterion_name": "Lopez et al. [12]",
+    "gold_standard": "Gomes-Filho et al. [13]",
+    "test_type": "clinical examination",
+    "parameters": ["probing depth", "clinical attachment level", "bleeding on probing"],
+    "sensitivity": "70.6 (65.0-81.2)",
+    "specificity": "96.8 (95.5-97.8)"
+  },
+  {
+    "study_reference": "Conceição et al., 2023",
+    "ref_num": 32,
+    "criterion_name": "Nesse et al. [34]",
+    "gold_standard": "Gomes-Filho et al. [13]",
+    "test_type": "clinical examination",
+    "parameters": ["probing depth", "clinical attachment level", "bleeding on probing"],
+    "sensitivity": "76.5 (71.1-81.2)",
+    "specificity": "90.6 (88.6-92.4)"
+  },
+  {
+    "study_reference": "Li et al., 2022",
+    "ref_num": 31,
+    "criterion_name": "AAP/EFP [11]",
+    "gold_standard": "CDC/AAP [9,10]",
+    "test_type": "clinical examination",
+    "parameters": ["probing depth", "clinical attachment level", "bleeding on probing"],
+    "sensitivity": "100.0 (94.3-100.0)",
+    "specificity": "92.9 (87.4-96.1)"
+  },
+  {
+    "study_reference": "Li et al., 2022",
+    "ref_num": 31,
+    "criterion_name": "FDI-CG original [37]",
+    "gold_standard": "CDC/AAP [9,10]",
+    "test_type": "clinical examination",
+    "parameters": ["probing depth", "clinical attachment level", "bleeding on probing"],
+    "sensitivity": "20.6 (12.5-32.2)",
+    "specificity": "99.3 (96.1-100)"
+  },
+  {
+    "study_reference": "Li et al., 2022",
+    "ref_num": 31,
+    "criterion_name": "FDI-CG all +2",
+    "gold_standard": "CDC/AAP [9,10]",
+    "test_type": "clinical examination",
+    "parameters": ["probing depth", "clinical attachment level", "bleeding on probing"],
+    "sensitivity": "100 (94.3-100)",
+    "specificity": "61.7 (53.5-69.3)"
+  },
+  {
+    "study_reference": "Li et al., 2022",
+    "ref_num": 31,
+    "criterion_name": "FDI-CG early phase +1 and late phase +2",
+    "gold_standard": "CDC/AAP [9,10]",
+    "test_type": "clinical examination",
+    "parameters": ["probing depth", "clinical attachment level", "bleeding on probing"],
+    "sensitivity": "92.1 (82.7-96.6)",
+    "specificity": "70.9 (63.0-78.0)"
+  },
+  {
+    "study_reference": "Conceição et al., 2021",
+    "ref_num": 27,
+    "criterion_name": "Gomes-Filho et al. [13]",
+    "gold_standard": "CDC/AAP [9,10]",
+    "test_type": "clinical examination",
+    "parameters": ["probing depth", "clinical attachment level", "bleeding on probing"],
+    "sensitivity": "46.7 (42.0-51.5)",
+    "specificity": "100 (98.4-100)"
+  },
+  {
+    "study_reference": "Conceição et al., 2021",
+    "ref_num": 27,
+    "criterion_name": "Albandar et al. [33]",
+    "gold_standard": "CDC/AAP [9,10]",
+    "test_type": "clinical examination",
+    "parameters": ["probing depth", "clinical attachment level", "bleeding on probing"],
+    "sensitivity": "62.9 (58.2-67.4)",
+    "specificity": "96.0 (92.6-98.2)"
+  },
+  {
+    "study_reference": "Conceição et al., 2021",
+    "ref_num": 27,
+    "criterion_name": "Bassani et al. [14]",
+    "gold_standard": "CDC/AAP [9,10]",
+    "test_type": "clinical examination",
+    "parameters": ["probing depth", "clinical attachment level", "bleeding on probing"],
+    "sensitivity": "98.2 (96.5-99.2)",
+    "specificity": "23.5 (18.1-29.5)"
+  },
+  {
+    "study_reference": "Conceição et al., 2021",
+    "ref_num": 27,
+    "criterion_name": "Lopez et al. [12]",
+    "gold_standard": "CDC/AAP [9,10]",
+    "test_type": "clinical examination",
+    "parameters": ["probing depth", "clinical attachment level", "bleeding on probing"],
+    "sensitivity": "36.0 (31.5-40.6)",
+    "specificity": "96.5 (93.1-98.5)"
+  },
+  {
+    "study_reference": "Conceição et al., 2021",
+    "ref_num": 27,
+    "criterion_name": "Nesse et al. [34]",
+    "gold_standard": "CDC/AAP [9,10]",
+    "test_type": "clinical examination",
+    "parameters": ["probing depth", "clinical attachment level", "bleeding on probing"],
+    "sensitivity": "37.3 (32.8-42.0)",
+    "specificity": "99.1 (96.8-99.9)"
+  },
+  {
+    "study_reference": "Micu et al., 2020",
+    "ref_num": 29,
+    "criterion_name": "Self-reported gum swelling",
+    "gold_standard": "CDC/AAP [9,10]",
+    "test_type": "self-reported questionnaire",
+    "parameters": ["probing depth", "clinical attachment level"],
+    "sensitivity": "31.1 (24.1-38.2)",
+    "specificity": "83.3 (72.8-93.9)"
+  },
+  {
+    "study_reference": "Micu et al., 2020",
+    "ref_num": 29,
+    "criterion_name": "Self-reported halitosis",
+    "gold_standard": "CDC/AAP [9,10]",
+    "test_type": "self-reported questionnaire",
+    "parameters": ["probing depth", "clinical attachment level"],
+    "sensitivity": "24.0 (17.5-30.4)",
+    "specificity": "89.6 (80.9-98.2)"
+  },
+  {
+    "study_reference": "Micu et al., 2020",
+    "ref_num": 29,
+    "criterion_name": "Self-reported previous diagnosis of periodontitis",
+    "gold_standard": "CDC/AAP [9,10]",
+    "test_type": "self-reported questionnaire",
+    "parameters": ["probing depth", "clinical attachment level"],
+    "sensitivity": "16.8 (11.1-22.4)",
+    "specificity": "97.9 (93.9-100)"
+  },
+  {
+    "study_reference": "Micu et al., 2020",
+    "ref_num": 29,
+    "criterion_name": "Self-reported pre-treatment",
+    "gold_standard": "CDC/AAP [9,10]",
+    "test_type": "self-reported questionnaire",
+    "parameters": ["probing depth", "clinical attachment level"],
+    "sensitivity": "10.8 (6.1-15.5)",
+    "specificity": "99.9 (93.9-100)"
+  },
+  {
+    "study_reference": "Turton, Henkel, Africa, 2017",
+    "ref_num": 30,
+    "criterion_name": "BANA test",
+    "gold_standard": "Offenbacher et al. (2001) [8]",
+    "test_type": "microbiological test",
+    "parameters": ["clinical attachment level", "probing depth", "subgingival interdental plaque"],
+    "sensitivity": "86.25 (82.04-89.06)",
+    "specificity": "95.12 (89.77-97.75)"
+  },
+  {
+    "study_reference": "Kugahara, Shoseni, Ohashi, 2008",
+    "ref_num": 28,
+    "criterion_name": "Salivary enzymatic test",
+    "gold_standard": "CPITN [15]",
+    "test_type": "salivary enzymatic test",
+    "parameters": ["probing depth", "salivary enzyme"],
+    "sensitivity": "89.47 (68.91-67.06)",
+    "specificity": "62.38 (55.52-68.67)"
+  }
+]

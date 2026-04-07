@@ -1,0 +1,86 @@
+record;field;human;ai;correct
+28||salivary enzymatic test;parameters;['probing depth', 'salivary enzyme'];['probing depth'];False
+29||self reported gum swelling;specificity;83.3 (72.8 93.9);;False
+29||self reported gum swelling;parameters;['clinical attachment level', 'probing depth'];;False
+29||self reported gum swelling;ref_num;29;;False
+29||self reported gum swelling;test_type;self reported questionnaire;;False
+29||self reported gum swelling;sensitivity;31.1 (24.1 38.2);;False
+29||self reported halitosis;specificity;89.6 (80.9 98.2);;False
+29||self reported halitosis;parameters;['clinical attachment level', 'probing depth'];;False
+29||self reported halitosis;ref_num;29;;False
+29||self reported halitosis;test_type;self reported questionnaire;;False
+29||self reported halitosis;sensitivity;24.0 (17.5 30.4);;False
+29||self reported periodontitis: gum swelling;specificity;;83.3 (72.8 93.9);False
+29||self reported periodontitis: gum swelling;parameters;;['clinical attachment level', 'probing depth'];False
+29||self reported periodontitis: gum swelling;ref_num;;29;False
+29||self reported periodontitis: gum swelling;test_type;;self reported questionnaire;False
+29||self reported periodontitis: gum swelling;sensitivity;;31.1 (24.1 38.2);False
+29||self reported periodontitis: halitosis;specificity;;89.6 (80.9 98.2);False
+29||self reported periodontitis: halitosis;parameters;;['clinical attachment level', 'probing depth'];False
+29||self reported periodontitis: halitosis;ref_num;;29;False
+29||self reported periodontitis: halitosis;test_type;;self reported questionnaire;False
+29||self reported periodontitis: halitosis;sensitivity;;24.0 (17.5 30.4);False
+29||self reported periodontitis: pre treatment;specificity;;99.9 (93.9 100);False
+29||self reported periodontitis: pre treatment;parameters;;['clinical attachment level', 'probing depth'];False
+29||self reported periodontitis: pre treatment;ref_num;;29;False
+29||self reported periodontitis: pre treatment;test_type;;self reported questionnaire;False
+29||self reported periodontitis: pre treatment;sensitivity;;10.8 (6.1 15.5);False
+29||self reported periodontitis: previous diagnosis;specificity;;97.9 (93.9 100);False
+29||self reported periodontitis: previous diagnosis;parameters;;['clinical attachment level', 'probing depth'];False
+29||self reported periodontitis: previous diagnosis;ref_num;;29;False
+29||self reported periodontitis: previous diagnosis;test_type;;self reported questionnaire;False
+29||self reported periodontitis: previous diagnosis;sensitivity;;16.8 (11.1 22.4);False
+29||self reported pre treatment;specificity;99.9 (93.9 100);;False
+29||self reported pre treatment;parameters;['clinical attachment level', 'probing depth'];;False
+29||self reported pre treatment;ref_num;29;;False
+29||self reported pre treatment;test_type;self reported questionnaire;;False
+29||self reported pre treatment;sensitivity;10.8 (6.1 15.5);;False
+29||self reported previous diagnosis of periodontitis;specificity;97.9 (93.9 100);;False
+29||self reported previous diagnosis of periodontitis;parameters;['clinical attachment level', 'probing depth'];;False
+29||self reported previous diagnosis of periodontitis;ref_num;29;;False
+29||self reported previous diagnosis of periodontitis;test_type;self reported questionnaire;;False
+29||self reported previous diagnosis of periodontitis;sensitivity;16.8 (11.1 22.4);;False
+30||bana (n benzoyl dl arginine 2 naphthylamide);specificity;;95.12 (89.77 97.75);False
+30||bana (n benzoyl dl arginine 2 naphthylamide);parameters;;['clinical attachment level', 'probing depth', 'subgingival interdental plaque'];False
+30||bana (n benzoyl dl arginine 2 naphthylamide);ref_num;;30;False
+30||bana (n benzoyl dl arginine 2 naphthylamide);test_type;;microbiological test;False
+30||bana (n benzoyl dl arginine 2 naphthylamide);sensitivity;;86.25 (82.04 89.06);False
+30||bana test;specificity;95.12 (89.77 97.75);;False
+30||bana test;parameters;['clinical attachment level', 'probing depth', 'subgingival interdental plaque'];;False
+30||bana test;ref_num;30;;False
+30||bana test;test_type;microbiological test;;False
+30||bana test;sensitivity;86.25 (82.04 89.06);;False
+31||aap/efp [11];specificity;92.9 (87.4 96.1);;False
+31||aap/efp [11];parameters;['bleeding on probing', 'clinical attachment level', 'probing depth'];;False
+31||aap/efp [11];ref_num;31;;False
+31||aap/efp [11];test_type;clinical examination;;False
+31||aap/efp [11];sensitivity;100.0 (94.3 100.0);;False
+31||fdi cg all +2;specificity;61.7 (53.5 69.3);;False
+31||fdi cg all +2;parameters;['bleeding on probing', 'clinical attachment level', 'probing depth'];;False
+31||fdi cg all +2;ref_num;31;;False
+31||fdi cg all +2;test_type;clinical examination;;False
+31||fdi cg all +2;sensitivity;100 (94.3 100);;False
+31||fdi cg early phase +1 and late phase +2;specificity;70.9 (63.0 78.0);;False
+31||fdi cg early phase +1 and late phase +2;parameters;['bleeding on probing', 'clinical attachment level', 'probing depth'];;False
+31||fdi cg early phase +1 and late phase +2;ref_num;31;;False
+31||fdi cg early phase +1 and late phase +2;test_type;clinical examination;;False
+31||fdi cg early phase +1 and late phase +2;sensitivity;92.1 (82.7 96.6);;False
+31||fdi cg original [37];specificity;99.3 (96.1 100);;False
+31||fdi cg original [37];parameters;['bleeding on probing', 'clinical attachment level', 'probing depth'];;False
+31||fdi cg original [37];ref_num;31;;False
+31||fdi cg original [37];test_type;clinical examination;;False
+31||fdi cg original [37];sensitivity;20.6 (12.5 32.2);;False
+32||albandar et al. [33];gold_standard;gomes filho et al. [13];"cdc/aap criteria (page rc, eke pi, 2007; eke pi, 2012) [9,10]";False
+32||bassani et al. [14];gold_standard;gomes filho et al. [13];"cdc/aap criteria (page rc, eke pi, 2007; eke pi, 2012) [9,10]";False
+32||cdc/aap [9,10];specificity;72.50 (69.5 75.3);;False
+32||cdc/aap [9,10];parameters;['bleeding on probing', 'clinical attachment level', 'probing depth'];;False
+32||cdc/aap [9,10];ref_num;32;;False
+32||cdc/aap [9,10];test_type;clinical examination;;False
+32||cdc/aap [9,10];sensitivity;86.5 (82.0 90.0);;False
+32||gomes filho et al. [13];specificity;;72.50 (69.5 75.3);False
+32||gomes filho et al. [13];parameters;;['bleeding on probing', 'clinical attachment level', 'probing depth'];False
+32||gomes filho et al. [13];ref_num;;32;False
+32||gomes filho et al. [13];test_type;;clinical examination;False
+32||gomes filho et al. [13];sensitivity;;86.5 (82.0 90.0);False
+32||lopez et al. [12];gold_standard;gomes filho et al. [13];"cdc/aap criteria (page rc, eke pi, 2007; eke pi, 2012) [9,10]";False
+32||nesse et al. [34];gold_standard;gomes filho et al. [13];"cdc/aap criteria (page rc, eke pi, 2007; eke pi, 2012) [9,10]";False

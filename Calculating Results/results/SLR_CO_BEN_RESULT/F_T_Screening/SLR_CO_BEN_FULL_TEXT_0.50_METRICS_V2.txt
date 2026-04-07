@@ -1,0 +1,32 @@
+=== Full Text Screening Evaluation ===
+
+Confusion Matrix:
+               Predicted Relevant    Predicted Not Relevant
+Actual Relevant            67                     12
+Actual Not Relevant       178                    319
+
+Metrics:
+TP: 67
+FP: 178
+TN: 319
+FN: 12
+Recall: 0.8481
+Precision: 0.2735
+Specificity: 0.6419
+Accuracy: 0.6701
+BalancedAccuracy: 0.7450
+F1: 0.4136
+WorkSaved: 0.5747
+WSS@95: 0.4228
+Recall_CI: (np.float64(0.7689526254667057), np.float64(0.9272499061788638))
+Precision_CI: (np.float64(0.21765394844565897), np.float64(0.3292848270645451))
+Specificity_CI: (np.float64(0.5996982675238007), np.float64(0.6840039457558773))
+Accuracy_CI: (np.float64(0.6317422862784415), np.float64(0.7085354914993361))
+BalancedAccuracy_CI: (np.float64(0.7093797604471311), np.float64(0.7805726120154927))
+recall_AC_CI: (np.float64(0.7514412625556137), np.float64(0.9124763826854245))
+precision_AC_CI: (np.float64(0.22136493348581326), np.float64(0.3325681709468861))
+Specificity_AC_CI: (np.float64(0.5987441268922041), np.float64(0.6827820083170116))
+accuracy_AC_CI: (np.float64(0.6307093997158645), np.float64(0.7073139501093292))
+bal_acc_AC_CI: (np.float64(0.6750926947239089), np.float64(0.797629195501218))
+
+False Negatives (missed relevant studies): 12

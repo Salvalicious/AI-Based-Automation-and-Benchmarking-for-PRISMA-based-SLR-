@@ -1,0 +1,188 @@
+record;field;human;ai;correct
+aittasalo et al 2019;country;europe;;False
+aldred et al 2019a;country;uk;;False
+aldred et al 2019b;country;uk;;False
+aldred et al 2021;country;uk;;False
+anderson et al 2021;country;north america;;False
+arancibia et al 2019;country;north america;;False
+audrey et al 2015;country;uk;;False
+audrey et al 2019;country;uk;;False
+australian greenhouse office 2005;country;australia;;False
+boarnet et al 2005;country;north america;;False
+brand et al 2014;country;uk;;False
+brand et al 2014;transport_quality;not measured;favors;False
+brey et al 2017;country;europe;;False
+brown et al 2016;country;north america;;False
+brrestad et al 2012;country;europe;;False
+bungum et al 2014;social;;not measured;False
+bungum et al 2014;design;;quasi experiment;False
+bungum et al 2014;health;;not measured;False
+bungum et al 2014;transport_quality;;not measured;False
+bungum et al 2014;environmental;;not measured;False
+bungum et al 2014;safety;;favors;False
+bungum et al 2014;setting;;school;False
+bungum et al 2014;economic;;not measured;False
+buttazzoni et al 2019;country;north america;;False
+cambra and moura 2020;country;europe;;False
+chapman et al 2018;country;australia;;False
+christiansen et al 2014;country;europe;;False
+christiansen et al 2014;design;quasi experiment;rct;False
+clockston and rojas rueda 2021;country;north america;;False
+clockston and rojas rueda 2021;setting;bike share;bicycle sharing;False
+crane et al 2017;country;australia;;False
+dimaggio et al 2014;country;north america;;False
+dimaggio et al 2015;country;north america;;False
+dimaggio et al 2016;country;north america;;False
+ek et al 2020;country;europe;;False
+ek et al 2020;setting;other;bicycle sharing;False
+frank et al 2021;country;north america;;False
+freemark et al 2022;country;north america;;False
+fuller 2013;social;;not measured;False
+fuller 2013;design;;quasi experiment;False
+fuller 2013;health;;not measured;False
+fuller 2013;transport_quality;;not measured;False
+fuller 2013;environmental;;not measured;False
+fuller 2013;safety;;favors;False
+fuller 2013;setting;;bicycle sharing;False
+fuller 2013;economic;;not measured;False
+fuller et al 2013;country;north america;;False
+fuller et al 2013;setting;bike share;other;False
+fyhri et al 2016;country;europe;;False
+fyhri et al 2020a;country;europe;;False
+fyhri et al 2020b;country;europe;;False
+goodman et al 2013;country;uk;;False
+goodno et al 2013;country;north america;;False
+gutierrez et al 2008;country;north america;;False
+harris et al 2014;country;australia;;False
+he et al 2021;country;asia;;False
+heelan et al 2009;country;north america;;False
+hou et al 2020;country;north america;;False
+hou et al 2020;setting;bike share;bicycle sharing;False
+kang et al 2020;country;north america;;False
+keall et al 2018;country;australia;;False
+keall et al 2021;social;not measured;;False
+keall et al 2021;design;quasi experiment;;False
+keall et al 2021;country;australia;;False
+keall et al 2021;health;favors;;False
+keall et al 2021;transport_quality;favors;;False
+keall et al 2021;environmental;favors;;False
+keall et al 2021;safety;favors;;False
+keall et al 2021;setting;built env;;False
+keall et al 2021;economic;favors;;False
+keall et al 2022;social;;not measured;False
+keall et al 2022;design;;quasi experiment;False
+keall et al 2022;health;;favors;False
+keall et al 2022;transport_quality;;favors;False
+keall et al 2022;environmental;;favors;False
+keall et al 2022;safety;;favors;False
+keall et al 2022;setting;;built env;False
+keall et al 2022;economic;;favors;False
+kong et al 2010;country;north america;;False
+koorey et al 2016;country;australia;;False
+le gouais et al 2021;country;uk;;False
+li et al 2018;country;uk;;False
+mackey et al 2019;country;north america;;False
+mackey et al 2019;setting;other;bicycle sharing;False
+marques et al 2015;country;europe;;False
+martin et al 2021;country;uk;;False
+mendoza et al 2012;country;north america;;False
+mrkajic et al 2015;country;europe;;False
+mrkajic et al 2015;transport_quality;not measured;favors;False
+mrkajic et al 2015;environmental;favors;not measured;False
+mutrie et al 2002;country;uk;;False
+orenstein et al 2007;country;north america;;False
+ostergaard et al 2015;social;not measured;;False
+ostergaard et al 2015;design;quasi experiment;;False
+ostergaard et al 2015;country;europe;;False
+ostergaard et al 2015;health;favors;;False
+ostergaard et al 2015;transport_quality;not measured;;False
+ostergaard et al 2015;environmental;not measured;;False
+ostergaard et al 2015;safety;not measured;;False
+ostergaard et al 2015;setting;built env;;False
+ostergaard et al 2015;economic;not measured;;False
+otero et al 2018;country;europe;;False
+otero et al 2018;setting;bike share;bicycle sharing;False
+page and nilsson 2017;country;north america;;False
+parks et al 2012;social;;not measured;False
+parks et al 2012;design;;quasi experiment;False
+parks et al 2012;health;;not measured;False
+parks et al 2012;transport_quality;;mixed;False
+parks et al 2012;environmental;;not measured;False
+parks et al 2012;safety;;mixed;False
+parks et al 2012;setting;;built env;False
+parks et al 2012;economic;;not measured;False
+parks et al 2021;social;not measured;;False
+parks et al 2021;design;quasi experiment;;False
+parks et al 2021;country;north america;;False
+parks et al 2021;health;not measured;;False
+parks et al 2021;transport_quality;mixed;;False
+parks et al 2021;environmental;not measured;;False
+parks et al 2021;safety;mixed;;False
+parks et al 2021;setting;built env;;False
+parks et al 2021;economic;not measured;;False
+pedroso et al 2016;country;north america;;False
+perez et al 2017;social;not measured;;False
+perez et al 2017;design;quasi experiment;;False
+perez et al 2017;country;europe;;False
+perez et al 2017;health;favors;;False
+perez et al 2017;transport_quality;favors;;False
+perez et al 2017;environmental;favors;;False
+perez et al 2017;safety;favors;;False
+perez et al 2017;setting;built env;;False
+perez et al 2017;economic;favors;;False
+perez et al 2017a;social;;not measured;False
+perez et al 2017a;design;;quasi experiment;False
+perez et al 2017a;health;;favors;False
+perez et al 2017a;transport_quality;;favors;False
+perez et al 2017a;environmental;;not measured;False
+perez et al 2017a;safety;;favors;False
+perez et al 2017a;setting;;built env;False
+perez et al 2017a;economic;;favors;False
+perez et al 2017b;social;;not measured;False
+perez et al 2017b;design;;quasi experiment;False
+perez et al 2017b;health;;favors;False
+perez et al 2017b;transport_quality;;favors;False
+perez et al 2017b;environmental;;favors;False
+perez et al 2017b;safety;;favors;False
+perez et al 2017b;setting;;built env;False
+perez et al 2017b;economic;;favors;False
+perez martin et al 2018;country;europe;;False
+plasencia lozano 2021;country;europe;;False
+quarles 2012;country;north america;;False
+rissel et al 2015;country;australia;;False
+rowland et al 2003;country;uk;;False
+ryan 2016;country;north america;;False
+ryan 2016;setting;bike share;bicycle sharing;False
+sahlqvist et al 2015;country;uk;;False
+said et al 2020;country;asia;;False
+said m 2020;social;;not measured;False
+said m 2020;design;;quasi experiment;False
+said m 2020;health;;not measured;False
+said m 2020;transport_quality;;not measured;False
+said m 2020;environmental;;not measured;False
+said m 2020;safety;;not measured;False
+said m 2020;setting;;bicycle sharing;False
+said m 2020;economic;;favors;False
+sareban et al 2020;country;europe;;False
+sloman et al 2009;country;uk;;False
+sloman et al 2010;country;uk;;False
+smith et al 2020;country;australia;;False
+soto et al 2021;country;north america;;False
+soto et al 2021;setting;bike share;bicycle sharing;False
+stergaard et al 2015;social;;not measured;False
+stergaard et al 2015;design;;quasi experiment;False
+stergaard et al 2015;health;;favors;False
+stergaard et al 2015;transport_quality;;not measured;False
+stergaard et al 2015;environmental;;not measured;False
+stergaard et al 2015;safety;;not measured;False
+stergaard et al 2015;setting;;built env;False
+stergaard et al 2015;economic;;not measured;False
+sustrans 2014;country;uk;;False
+troelsen et al 2004;country;europe;;False
+van lierop et al 2016;country;north america;;False
+villa gonzalez et al 2017;country;europe;;False
+wali et al 2022;country;north america;;False
+wall et al 2017;country;uk;;False
+xu 2019;country;north america;;False
+xu 2019;setting;bike share;bicycle sharing;False
+zhou et al 2020;country;asia;;False

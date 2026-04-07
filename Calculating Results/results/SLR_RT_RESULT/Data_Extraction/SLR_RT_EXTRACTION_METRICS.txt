@@ -1,0 +1,44 @@
+=== Data Extraction Evaluation ===
+
+Confusion Matrix:
+               Predicted Correct    Predicted Incorrect
+Actual Correct           595                     35
+Actual Incorrect           0                      0
+
+Metrics:
+TP: 595
+FP: 0
+TN: 0
+FN: 35
+Recall: 0.9444
+Precision: 1.0000
+Specificity: 0.0000
+Accuracy: 0.9444
+BalancedAccuracy: 0.4722
+F1: 0.9714
+WorkSaved: 0.0556
+WSS@95: -0.0000
+Recall_CI: (np.float64(0.9265574343445003), np.float64(0.9623314545443885))
+Precision_CI: (np.float64(1.0), 1.0)
+Specificity_CI: (0.0, 0.0)
+Accuracy_CI: (np.float64(0.9265574343445003), np.float64(0.9623314545443885))
+BalancedAccuracy_CI: (np.float64(0.4332383875083485), np.float64(0.511206056936096))
+recall_AC_CI: (np.float64(0.923516875888227), np.float64(0.9599846172292964))
+precision_AC_CI: (np.float64(0.9922636279519454), 1.0)
+Specificity_AC_CI: (0.0, 0.0)
+accuracy_AC_CI: (np.float64(0.923516875888227), np.float64(0.9599846172292964))
+bal_acc_AC_CI: (np.float64(0.4617584379441135), np.float64(0.4799923086146482))
+
+Field Accuracy:
+field
+type                   1.000000
+references             1.000000
+performance_metrics    0.944444
+prisma_phases          0.896825
+ai_type                0.880952
+
+Study-level Accuracy:
+0.7302
+
+
+Extraction Errors: 35

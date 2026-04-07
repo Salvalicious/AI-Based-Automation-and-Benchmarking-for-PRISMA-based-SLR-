@@ -1,0 +1,45 @@
+=== Data Extraction Evaluation ===
+
+Confusion Matrix:
+               Predicted Correct    Predicted Incorrect
+Actual Correct            71                     85
+Actual Incorrect           0                      0
+
+Metrics:
+TP: 71
+FP: 0
+TN: 0
+FN: 85
+Recall: 0.4551
+Precision: 1.0000
+Specificity: 0.0000
+Accuracy: 0.4551
+BalancedAccuracy: 0.2276
+F1: 0.6256
+WorkSaved: 0.5449
+WSS@95: -0.0000
+Recall_CI: (np.float64(0.37698201475027004), np.float64(0.5332743955061402))
+Precision_CI: (np.float64(1.0), 1.0)
+Specificity_CI: (0.0, 0.0)
+Accuracy_CI: (np.float64(0.37698201475027004), np.float64(0.5332743955061402))
+BalancedAccuracy_CI: (np.float64(0.16177152914066067), np.float64(0.29335667598754445))
+recall_AC_CI: (np.float64(0.37899035768648376), np.float64(0.5334229314697809))
+precision_AC_CI: (np.float64(0.9385083091113235), 1.0)
+Specificity_AC_CI: (0.0, 0.0)
+accuracy_AC_CI: (np.float64(0.37899035768648376), np.float64(0.5334229314697809))
+bal_acc_AC_CI: (np.float64(0.18949517884324188), np.float64(0.26671146573489046))
+
+Field Accuracy:
+field
+gold_standard    0.846154
+ref_num          0.384615
+specificity      0.384615
+sensitivity      0.384615
+test_type        0.384615
+parameters       0.346154
+
+Study-level Accuracy:
+0.1923
+
+
+Extraction Errors: 85
