@@ -7,7 +7,7 @@ To benchmark the AI, we use what we define as "golden datasets". These are datas
 
 - The LLM receives:
   - Title  
-  - Abstract (or full text)  
+  - Abstract or Full Text  
   - Inclusion criteria  
   - Exclusion criteria  
 - It outputs a **confidence score** between `0.0 – 1.0`  
